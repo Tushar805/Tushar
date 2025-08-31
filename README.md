@@ -24,8 +24,24 @@ While I am working in software engineering, my **true interest lies in the Data 
 This repository serves as my **portfolio hub**, showcasing:  
 
 - SQL Projects  
-- Excel / Power BI Dashboards  
+- Excel Dashboards  
 - Python Data Analysis Projects  
+
+---
+
+## 🔹 My Projects  
+
+### 1. [RetailStore_Sales_Analysis_SQL](link-to-RetailStore_Sales_Analysis_SQL-repo)  
+A SQL-based project analyzing retail sales data to answer key business questions, including:  
+- Top-selling products & high-value customers  
+- Purchase trends by time of day, age group, and gender  
+- Product returns, cancellations insights  
+
+**Includes:**  
+- Cleaned dataset (`Data/`)  
+- SQL queries (`Queries/`)  
+- Results screenshots (`Results/`)  
+- Insights & workflow summary  
 
 ---
 
@@ -34,4 +50,4 @@ This repository serves as my **portfolio hub**, showcasing:
 - 📧 Email: gargtushar278@gmail.com 
 - 📂 [Resume](link-to-your-resume.pdf)  
 
----
+
