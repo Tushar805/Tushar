@@ -31,7 +31,7 @@ This repository serves as my **portfolio hub**, showcasing:
 
 ## 🔹 My Projects  
 
-### 1. [RetailStore_Sales_Analysis_SQL]([link-to-RetailStore_Sales_Analysis_SQL-repo](https://github.com/Tushar805/RetailStore_Sales_Analysis_SQL))  
+### 1. [RetailStore_Sales_Analysis_SQL](https://github.com/Tushar805/RetailStore_Sales_Analysis_SQL)
 A SQL-based project analyzing retail sales data to answer key business questions, including:  
 - Top-selling products & high-value customers  
 - Purchase trends by time of day, age group, and gender  
