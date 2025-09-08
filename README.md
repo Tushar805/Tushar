@@ -58,6 +58,16 @@ A Python-based project analyzing worldwide search trends for **any keyword**, hi
 
 ---
 
+## 🔹 My Certificates  
+
+1. **Mitel Certified Engineer - MIR Installation & Maintenance** (Jun 2025)  
+
+2. **Deloitte Australia Data Analytics Job Simulation** on Forage (Sep 2025)   
+
+3. **Tata Data Visualization: Empowering Business with Effective Insights Job Simulation** on Forage (Sep 2025)  
+
+---
+
 ## 📬 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tushar-garg-083470286) 
 - 📧 Email: gargtushar278@gmail.com 
