@@ -43,6 +43,21 @@ A SQL-based project analyzing retail sales data to answer key business questions
 - Results screenshots (`Results/`)  
 - Insights & workflow summary  
 
+
+### 2. [Google_Search_Trends_Analysis](https://github.com/Tushar805/Search_Trend_Analysis.git)
+A Python-based project analyzing worldwide search trends for **any keyword**, highlighting top countries, trend patterns, and keyword comparisons.  
+
+**Includes:**  
+- Python script (`run_project.py`) for automated analysis  
+- Visualizations: bar charts & world map (`HTML.html`)  
+- Insights summary & workflow (`README.md`)  
+
+**Key Insights:**  
+- Top countries show strongest interest in the chosen keyword  
+- Trend-over-time plots reveal changes in global interest  
+- Keyword comparisons provide context for relative popularity
+
+
 ---
 
 ## 📬 Connect With Me  
