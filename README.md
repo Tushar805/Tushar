@@ -83,6 +83,6 @@ End-to-end Power BI project analyzing Amazon delivery performance with cleaned d
 ## 📬 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tushar-garg-083470286) 
 - 📧 Email: gargtushar278@gmail.com 
-- 📂 [Resume](link-to-your-resume.pdf)  
+- 📂 [Resume](https://github.com/Tushar805/Resume/blob/main/Tushar%20Resume.pdf)  
 
 
