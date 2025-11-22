@@ -57,6 +57,9 @@ A Python-based project analyzing worldwide search trends for **any keyword**, hi
 - Python script for analysis (`run_project.py`) 
 - Results (`HTML.html`) 
 
+
+### 3. []()
+End-to-end Power BI project analyzing Amazon delivery performance with cleaned data, DAX KPIs, delay insights, traffic/weather effects, invalid GPS checks, and a polished multi-page dashboard.
 ---
 
 ## 🔹 My Certificates  
