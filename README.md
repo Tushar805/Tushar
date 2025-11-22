@@ -39,17 +39,15 @@ A SQL-based project analyzing retail sales data to answer key business questions
 - Product returns, cancellations insights  
 
 **Includes:**  
-- Cleaned dataset (`Data/`)  
-- SQL queries (`Queries/`)  
-- Results screenshots (`Results/`)  
+- Cleaned Dataset (`Data/`)  
+- SQL Queries (`Queries/`)  
+- Results Screenshots (`Results/`)  
 - Insights & workflow summary  
 
 
 ### 2. [Google_Search_Trends_Analysis](https://github.com/Tushar805/Search_Trend_Analysis.git)
 A Python-based project analyzing worldwide search trends for **any keyword**, highlighting top countries, trend patterns, and keyword comparisons.  
-
-**Key Insights:**  
-- Top countries show strongest interest in the chosen keyword  
+- Top countries showing strongest interest in the chosen keyword  
 - Trend-over-time plots reveal changes in global interest  
 - Keyword comparisons provide context for relative popularity
 
@@ -58,8 +56,18 @@ A Python-based project analyzing worldwide search trends for **any keyword**, hi
 - Results (`HTML.html`) 
 
 
-### 3. []()
-End-to-end Power BI project analyzing Amazon delivery performance with cleaned data, DAX KPIs, delay insights, traffic/weather effects, invalid GPS checks, and a polished multi-page dashboard.
+### 3. [Amazon Last-Mile Delivery Analytics Dashboard](https://github.com/Tushar805/Amazon-Last-Mile-Delivery-Analytics-Dashboard)
+End-to-end Power BI project analyzing Amazon delivery performance with cleaned data, DAX KPIs, delay insights, traffic/weather effects, invalid GPS checks, and a polished multi-page dashboard, including:
+- What is the typical delivery time range?
+- Which vehicle types struggle most during heavy traffic?
+- Are any deliveries violating compliance or safety rules?
+- How does traffic affect delivery speed?
+
+**Includes:**
+- Raw Dataset (`Data/`)
+- Amazon Dashboard.pbix
+- Amazon Dashboard.pdf
+
 ---
 
 ## 🔹 My Certificates  
