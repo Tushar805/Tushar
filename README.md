@@ -25,6 +25,7 @@ This repository serves as my **portfolio hub**, showcasing:
 
 - SQL Projects  
 - Excel Dashboards  
+- PowerBI Dashboards
 - Python Data Analysis Projects  
 
 ---
