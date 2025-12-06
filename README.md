@@ -68,6 +68,22 @@ End-to-end Power BI project analyzing Amazon delivery performance with cleaned d
 - Amazon Dashboard.pbix
 - Amazon Dashboard.pdf
 
+
+### 4. [Used Car Market Insights Dashboard (Dec 2023 – Dec 2024)](https://github.com/Tushar805/Used-Car-Market-Analysis)
+A Power BI project analyzing 3,622 used car listings to uncover pricing trends, supply patterns, ownership distribution, and overall market behavior. The dashboard provides actionable insights through multi-page visualizations, KPIs, and advanced analytics.
+
+**Key Highlights:**
+- Explored pricing trends, supply, and ownership patterns across brands, fuel types, and transmission
+- Built multi-page dashboard with KPIs, charts, and visual summaries
+- Implemented price depreciation curves and anomaly detection for odometer readings
+- Created advanced DAX measures to generate insights like top brand and peak listing month
+- Designed clean, interactive visuals for easy business decision-making
+
+**Includes:**
+- Raw Dataset (`Data/`)
+- Dashboard.pbix
+- Dashboard.pdf
+
 ---
 
 ## 🔹 My Certificates  
