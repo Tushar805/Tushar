@@ -69,7 +69,7 @@ End-to-end Power BI project analyzing Amazon delivery performance with cleaned d
 - Amazon Dashboard.pdf
 
 
-### 4. [Used Car Market Insights Dashboard (Dec 2023 – Dec 2024)](https://github.com/Tushar805/Used-Car-Market-Analysis)
+### 4. [Used Car Market Insights Dashboard](https://github.com/Tushar805/Used-Car-Market-Analysis)
 A Power BI project analyzing 3,622 used car listings to uncover pricing trends, supply patterns, ownership distribution, and overall market behavior. The dashboard provides actionable insights through multi-page visualizations, KPIs, and advanced analytics.
 
 **Key Highlights:**
@@ -83,6 +83,23 @@ A Power BI project analyzing 3,622 used car listings to uncover pricing trends, 
 - Raw Dataset (`Data/`)
 - Dashboard.pbix
 - Dashboard.pdf
+
+### 5. [Superstore Data Cleaning – Excel | SQL | Python]
+A comprehensive data cleaning project using the same real-world Superstore dataset across **Excel (Power Query), SQL Server, and Python (Pandas)** to demonstrate tool-based cleaning strategies and best practices.
+
+**Key Highlights:**
+- Removed duplicates, fixed data types, and standardized text fields
+- Performed deep validation and feature engineering (delivery days, profit metrics)
+- Fixed real-world issues like truncated product names in SQL
+- Compared manual, query-based, and programmatic cleaning approaches
+
+**Includes:**
+- Original & cleaned datasets (`data/`)
+- Excel Power Query cleaning steps
+- SQL scripts for validation and optimization
+- Python (Pandas) cleaning notebook
+- Detailed documentation and insights
+
 
 ---
 
