@@ -84,7 +84,7 @@ A Power BI project analyzing 3,622 used car listings to uncover pricing trends, 
 - Dashboard.pbix
 - Dashboard.pdf
 
-### 5. [Superstore Data Cleaning – Excel | SQL | Python]
+### 5. [Superstore Data Cleaning – Excel | SQL | Python](https://github.com/Tushar805/Superstore-Data-Cleaning-Excel-SQL-Python)
 A comprehensive data cleaning project using the same real-world Superstore dataset across **Excel (Power Query), SQL Server, and Python (Pandas)** to demonstrate tool-based cleaning strategies and best practices.
 
 **Key Highlights:**
