@@ -116,6 +116,6 @@ A comprehensive data cleaning project using the same real-world Superstore datas
 ## 📬 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tushar-garg-083470286) 
 - 📧 Email: gargtushar278@gmail.com 
-- 📂 [Resume](https://github.com/Tushar805/Resume/blob/main/Tushar%20Resume.pdf)  
+- 📂 [Resume](https://github.com/Tushar805/Resume/blob/main/resume.pdf)
 
 
