@@ -11,12 +11,14 @@
 
 ## 🔹 Skills & Technologies
 
-* **Programming:** Python, SQL
-* **Big Data:** PySpark, Apache Spark
-* **Cloud & Platforms:** Azure Data Factory (ADF), Azure Data Lake (ADLS), Databricks, Synapse
-* **Data Engineering:** ETL/ELT Pipelines, Data Modelling, Medallion Architecture
-* **Orchestration:** Airflow, ADF
-* **Tools:** Git, GitHub, Azure DevOps
+* **Programming Languages:** Python, SQL
+* **Big Data Technologies:** Apache Spark, PySpark, Delta Lake
+* **Cloud \& Data Platforms:** Azure Data Factory (ADF), Azure Data Lake Storage (ADLS Gen2), Azure Databricks, Azure Synapse Analytics
+* **Data Engineering Concepts:** ETL/ELT Pipelines, Data Modelling, Data Warehousing, Star Schema, Snowflake Schema, Medallion Architecture
+* **Orchestration \& Workflow:** Apache Airflow, Azure Data Factory
+* **Version Control \& Tools:** Git, GitHub, Azure DevOps, CI/CD
+* **Additional:** FastAPI
+
 
 ---
 
